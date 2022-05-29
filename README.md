@@ -13,9 +13,7 @@ Steps to follow:
 8) Run attendance.py file.
 
 
-
-Tech stach used:
-  programming language: Python
+  programming language: Python, 
   IDE used: PyCharm
   
 Libraries used: 
