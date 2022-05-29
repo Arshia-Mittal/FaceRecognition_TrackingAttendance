@@ -12,7 +12,7 @@ Steps to follow:
 7) Open attendance.py and markAttendance.py ,change all the path according to your system.
 8) Run attendance.py file.
 
-#########################
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 Tech stach used:
 programming language: Python
 IDE used: PyCharm
@@ -24,7 +24,7 @@ Libraries used:
 5) Numpy 
 6) Pandas
 7) Pillow
-#########################
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 Note: 
 Hardware Requirement: webcam connected to user's device
