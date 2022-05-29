@@ -1,5 +1,5 @@
 # FaceRecognition_TrackingAttendance
-This project is a face recognition based attendance management system made using python.
+This project is a face recognition based attendance management system made using python.User(teacher) can register a new student. Then they can enter the subject name and can face the webcam towards the student to recognise them. If the student is recognised then there attendance is marked. Teacher can view the attendance of all the students. Also, project  has an audio feature to guide users.
 
 Steps to follow:
 1) Download or clone my repository to your device.
@@ -12,5 +12,21 @@ Steps to follow:
 7) Open attendance.py and markAttendance.py ,change all the path according to your system.
 8) Run attendance.py file.
 
+#########################
+Tech stach used:
+programming language: Python
+IDE used: PyCharm
+Libraries used: 
+1) Tkinter for GUI
+2) OpenCV
+3) Openpyxl (a Python library that is used to read from an Excel file or write to an Excel file)
+4) pyttsx3 (a text-to-speech conversion library in Python)
+5) Numpy 
+6) Pandas
+7) Pillow
+#########################
+
+Note: 
+Hardware Requirement: webcam connected to user's device
 
 
