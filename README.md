@@ -17,6 +17,7 @@ Steps to follow:
 Tech stach used:
   programming language: Python
   IDE used: PyCharm
+  
 Libraries used: 
 1) Tkinter for GUI
 2) OpenCV
